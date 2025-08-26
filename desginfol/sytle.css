@@ -1,0 +1,35 @@
+ /* This is a CSS comment */
+
+/* Selector for the body element */
+body {
+  background-color: powderblue; /* Sets the background color */
+  font-family: Arial, sans-serif; /* Sets the font family */
+  margin: 20px; /* Sets the margin around the body */
+}
+
+/* Selector for h1 headings */
+h1 {
+  color: blue; /* Sets the text color */
+  font-size: 2em; /* Sets the font size (2 times the base font size) */
+  text-align: center; /* Centers the text */
+}
+
+/* Selector for p paragraphs */
+p {
+  color: #333; /* Sets the text color using a hexadecimal value */
+  line-height: 1.5; /* Sets the line height */
+}
+
+/* Selector for a class named "highlight" */
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
+
+/* Selector for an ID named "main-content" */
+#main-content {
+  width: 80%;
+  margin: 0 auto; /* Centers the element horizontally */
+  padding: 15px;
+  border: 1px solid #ccc;
+}
