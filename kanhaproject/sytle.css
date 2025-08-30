@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Kanhaiya IT | Senior System Engineer</title>
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; background: #f5f7fa; }
+    header { background: #0b3d91; color: white; padding: 30px 0; text-align: center; }
+    nav { background: #062b61; padding: 10px 0; text-align: center; }
+    nav a { color: white; margin: 0 20px; text-decoration: none; font-weight: bold; font-size: 16px; }
+    section { padding: 50px 20px; max-width: 1000px; margin: auto; background: white; margin-top: 30px; border-radius: 10px; box-shadow: 0 0 15px rgba(0,0,0,0.1); }
+    h2 { color: #0b3d91; margin-bottom: 20px; }
+    .profile-img { width: 160px; border-radius: 50%; margin-bottom: 15px; border: 4px solid white; }
+    .btn { background: #0b3d91; color: white; padding: 12px 25px; border: none; cursor: pointer; margin: 8px; border-radius: 6px; font-size: 16px; }
+    .btn:hover { background: #062b61; }
+    footer { background: #0b3d91; color: white; text-align: center; padding: 20px; margin-top: 40px; }
+    input, textarea { width: 100%; padding: 12px; margin-top: 10px; margin-bottom: 20px; border-radius: 6px; border: 1px solid #ccc; font-size: 16px; }
+    .social a { color: white; margin: 0 10px; text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<header>
+  <img src="profile.jpg" alt="Kanhaiya Photo" class="profile-img" />
+  <h1>Kanhaiya Gupta</h1>
+  <h3>Senior System Engineer | Founder - Kanhaiya IT</h3>
+  <p>📞 8851628949 | 📧 kanhaiyagupta991018@gmail.com</p>
+  <div class="social">
+    <a href="https://www.linkedin.com/in/kanhaiya-gupta-871377260" target="_blank">LinkedIn</a>
+  </div>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#services">Courses</a>
+  <a href="#join">Join Now</a>
+  <a href="#testimonials">Testimonials</a>
+  <a href="#success">Success Stories</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <h2>About Kanhaiya IT</h2>
+  <p>
+    Welcome to <strong>Kanhaiya IT</strong> — your trusted platform for mastering Linux, AWS Cloud, and DevOps technologies.  
+    I am <strong>Kanhaiya Gupta</strong>, a certified and passionate <strong>Senior System Engineer</strong> with over <strong>3 years of experience</strong> 
+    working in cloud infrastructure, server automation, and scalable deployments.
+  </p>
+</section>
+
+<section id="services">
+  <h2>Our Courses</h2>
+  <button class="btn">✅ AWS Cloud (EC2, S3, IAM, RDS)</button>
+  <button class="btn">✅ Linux Administration</button>
+  <button class="btn">✅ DevOps Tools (Git, Jenkins, Docker)</button>
+  <button class="btn">✅ CI/CD Pipeline Setup</button>
+  <button class="btn">✅ Web Hosting on Cloud</button>
+</section>
+
+<section id="join">
+  <h2>Join Our Training Program</h2>
+  <p>
+    Ready to upgrade your tech skills? Enroll in our live, hands-on sessions with real-time projects. 
+    Flexible timing, dedicated support, and expert mentoring provided.
+  </p>
+  <button class="btn">Enroll Now</button>
+</section>
+
+<section id="testimonials">
+  <h2>What Students Say</h2>
+  <p><strong>Ravi:</strong> "Best mentor I ever had! Helped me land my first cloud job."</p>
+  <p><strong>Neha:</strong> "Clear concepts, real-time examples. Highly recommend Kanhaiya IT!"</p>
+</section>
+
+<section id="success">
+  <h2>Success Stories</h2>
+  <p>
+    100+ students successfully placed in top IT companies after completing our courses. From beginners to professionals, we’ve transformed careers with our practical training.
+  </p>
+</section>
+
+<section id="contact">
+  <h2>Contact Me</h2>
+  <p>Have questions or want to join? Fill the form below 👇</p>
+  <form>
+    <input type="text" placeholder="Your Name" required />
+    <input type="email" placeholder="Your Email" required />
+    <textarea rows="5" placeholder="Your Message..." required></textarea>
+    <button type="submit" class="btn">Send Message</button>
+  </form>
+</section>
+
+<footer>
+  <p>&copy; 2025 Kanhaiya IT | Designed with ❤️ by Kanhaiya Gupta</p>
+</footer>
+
+</body>
+</html>
+
